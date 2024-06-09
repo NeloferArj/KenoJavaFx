@@ -1,0 +1,1 @@
+In this project, I developed a Keno game using JavaFX, which helped me enhance my skills in GUI development and event-driven programming. The project was structured as a Maven project with integrated JUnit 5 test cases to ensure robust functionality.
